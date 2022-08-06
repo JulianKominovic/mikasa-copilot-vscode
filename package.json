@@ -4,7 +4,7 @@
   "description": "Mikasa copilot extension",
   "version": "0.0.1",
   "publisher": "jkominovic",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "repository": {
     "type": "git",
